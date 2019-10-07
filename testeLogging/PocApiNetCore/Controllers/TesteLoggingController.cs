@@ -29,10 +29,10 @@ namespace PocApiNetCore.Controllers
             return Ok();
         }
 
-        [HttpGet("OutroTeste")]
-        public void teste()
+        [HttpGet("TesteExceptionMiddleware")]
+        public void TesteExceptionMiddleware()
         {
-
+            throw new Exception("Error");
         }
     }
 }
