@@ -1,0 +1,16 @@
+C:\dev\testeLogging\testeLogging\PocApiNetCore\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\dev\testeLogging\testeLogging\PocApiNetCore\bin\Debug\netcoreapp2.2\appsettings.json
+C:\dev\testeLogging\testeLogging\PocApiNetCore\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\dev\testeLogging\testeLogging\PocApiNetCore\bin\Debug\netcoreapp2.2\PocApiNetCore.deps.json
+C:\dev\testeLogging\testeLogging\PocApiNetCore\bin\Debug\netcoreapp2.2\PocApiNetCore.runtimeconfig.json
+C:\dev\testeLogging\testeLogging\PocApiNetCore\bin\Debug\netcoreapp2.2\PocApiNetCore.runtimeconfig.dev.json
+C:\dev\testeLogging\testeLogging\PocApiNetCore\bin\Debug\netcoreapp2.2\PocApiNetCore.dll
+C:\dev\testeLogging\testeLogging\PocApiNetCore\obj\Debug\netcoreapp2.2\PocApiNetCore.RazorAssemblyInfo.cache
+C:\dev\testeLogging\testeLogging\PocApiNetCore\obj\Debug\netcoreapp2.2\PocApiNetCore.RazorAssemblyInfo.cs
+C:\dev\testeLogging\testeLogging\PocApiNetCore\obj\Debug\netcoreapp2.2\PocApiNetCore.AssemblyInfoInputs.cache
+C:\dev\testeLogging\testeLogging\PocApiNetCore\obj\Debug\netcoreapp2.2\PocApiNetCore.AssemblyInfo.cs
+C:\dev\testeLogging\testeLogging\PocApiNetCore\obj\Debug\netcoreapp2.2\PocApiNetCore.RazorTargetAssemblyInfo.cache
+C:\dev\testeLogging\testeLogging\PocApiNetCore\bin\Debug\netcoreapp2.2\PocApiNetCore.pdb
+C:\dev\testeLogging\testeLogging\PocApiNetCore\obj\Debug\netcoreapp2.2\PocApiNetCore.dll
+C:\dev\testeLogging\testeLogging\PocApiNetCore\obj\Debug\netcoreapp2.2\PocApiNetCore.pdb
+C:\dev\testeLogging\testeLogging\PocApiNetCore\obj\Debug\netcoreapp2.2\PocApiNetCore.csprojAssemblyReference.cache

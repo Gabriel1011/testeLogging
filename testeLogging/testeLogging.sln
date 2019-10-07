@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29326.143
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testeLogging", "testeLogging\testeLogging.csproj", "{1A932036-E192-4B16-8675-D62C6A4D9CAB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PocApiNetCore", "PocApiNetCore\PocApiNetCore.csproj", "{C4CA9141-2468-4D6A-BC4F-C94A29A31F83}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{1A932036-E192-4B16-8675-D62C6A4D9CAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1A932036-E192-4B16-8675-D62C6A4D9CAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1A932036-E192-4B16-8675-D62C6A4D9CAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1A932036-E192-4B16-8675-D62C6A4D9CAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4CA9141-2468-4D6A-BC4F-C94A29A31F83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4CA9141-2468-4D6A-BC4F-C94A29A31F83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4CA9141-2468-4D6A-BC4F-C94A29A31F83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4CA9141-2468-4D6A-BC4F-C94A29A31F83}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
