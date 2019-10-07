@@ -1,0 +1,16 @@
+C:\dev\testeLogging\testeLogging\testeLogging\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\dev\testeLogging\testeLogging\testeLogging\bin\Debug\netcoreapp2.2\appsettings.json
+C:\dev\testeLogging\testeLogging\testeLogging\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\dev\testeLogging\testeLogging\testeLogging\bin\Debug\netcoreapp2.2\testeLogging.deps.json
+C:\dev\testeLogging\testeLogging\testeLogging\bin\Debug\netcoreapp2.2\testeLogging.runtimeconfig.json
+C:\dev\testeLogging\testeLogging\testeLogging\bin\Debug\netcoreapp2.2\testeLogging.runtimeconfig.dev.json
+C:\dev\testeLogging\testeLogging\testeLogging\bin\Debug\netcoreapp2.2\testeLogging.dll
+C:\dev\testeLogging\testeLogging\testeLogging\bin\Debug\netcoreapp2.2\testeLogging.pdb
+C:\dev\testeLogging\testeLogging\testeLogging\obj\Debug\netcoreapp2.2\testeLogging.RazorAssemblyInfo.cache
+C:\dev\testeLogging\testeLogging\testeLogging\obj\Debug\netcoreapp2.2\testeLogging.RazorAssemblyInfo.cs
+C:\dev\testeLogging\testeLogging\testeLogging\obj\Debug\netcoreapp2.2\testeLogging.AssemblyInfoInputs.cache
+C:\dev\testeLogging\testeLogging\testeLogging\obj\Debug\netcoreapp2.2\testeLogging.AssemblyInfo.cs
+C:\dev\testeLogging\testeLogging\testeLogging\obj\Debug\netcoreapp2.2\testeLogging.RazorTargetAssemblyInfo.cache
+C:\dev\testeLogging\testeLogging\testeLogging\obj\Debug\netcoreapp2.2\testeLogging.dll
+C:\dev\testeLogging\testeLogging\testeLogging\obj\Debug\netcoreapp2.2\testeLogging.pdb
+C:\dev\testeLogging\testeLogging\testeLogging\obj\Debug\netcoreapp2.2\testeLogging.csprojAssemblyReference.cache
