@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\logging\\TesteLogging\\TesteLogging.csproj": {}
+    "C:\\dev\\testeLogging\\TesteLogging\\TesteLogging.csproj": {}
   },
   "projects": {
-    "C:\\dev\\logging\\TesteLogging\\TesteLogging.csproj": {
+    "C:\\dev\\testeLogging\\TesteLogging\\TesteLogging.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\logging\\TesteLogging\\TesteLogging.csproj",
+        "projectUniqueName": "C:\\dev\\testeLogging\\TesteLogging\\TesteLogging.csproj",
         "projectName": "TesteLogging",
-        "projectPath": "C:\\dev\\logging\\TesteLogging\\TesteLogging.csproj",
+        "projectPath": "C:\\dev\\testeLogging\\TesteLogging\\TesteLogging.csproj",
         "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\logging\\TesteLogging\\obj\\",
+        "outputPath": "C:\\dev\\testeLogging\\TesteLogging\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -42,6 +42,12 @@
       },
       "frameworks": {
         "netcoreapp3.0": {
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
