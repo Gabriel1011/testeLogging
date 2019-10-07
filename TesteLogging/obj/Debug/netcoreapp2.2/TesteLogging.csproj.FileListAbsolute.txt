@@ -1,0 +1,4 @@
+C:\dev\logging\TesteLogging\obj\Debug\netcoreapp2.2\TesteLogging.csprojAssemblyReference.cache
+C:\dev\logging\TesteLogging\obj\Debug\netcoreapp2.2\TesteLogging.csproj.CoreCompileInputs.cache
+C:\dev\logging\TesteLogging\obj\Debug\netcoreapp2.2\TesteLogging.AssemblyInfoInputs.cache
+C:\dev\logging\TesteLogging\obj\Debug\netcoreapp2.2\TesteLogging.AssemblyInfo.cs
